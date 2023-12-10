@@ -1,0 +1,51 @@
+{
+    "max_atmosphering_speed": "1050",
+    "pilots": [
+        {
+            "name": "Chewbacca",
+            "height": "228",
+            "weight": "112",
+            "homeworld": "https://swapi.dev/api/planets/14/",
+            "homeworld_info": {
+                "name": "Kashyyyk",
+                "population": "45000000",
+                "terrain": "jungle, forests, lakes, rivers"
+            }
+        },
+        {
+            "name": "Han Solo",
+            "height": "180",
+            "weight": "80",
+            "homeworld": "https://swapi.dev/api/planets/22/",
+            "homeworld_info": {
+                "name": "Corellia",
+                "population": "3000000000",
+                "terrain": "plains, urban, hills, forests"
+            }
+        },
+        {
+            "name": "Lando Calrissian",
+            "height": "177",
+            "weight": "79",
+            "homeworld": "https://swapi.dev/api/planets/30/",
+            "homeworld_info": {
+                "name": "Socorro",
+                "population": "300000000",
+                "terrain": "deserts, mountains"
+            }
+        },
+        {
+            "name": "Nien Nunb",
+            "height": "160",
+            "weight": "68",
+            "homeworld": "https://swapi.dev/api/planets/33/",
+            "homeworld_info": {
+                "name": "Sullust",
+                "population": "18500000000",
+                "terrain": "mountains, volcanoes, rocky deserts"
+            }
+        }
+    ],
+    "ship_name": "Millennium Falcon",
+    "starship_class": "Light freighter"
+}
